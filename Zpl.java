@@ -39,7 +39,7 @@ public class Zpl {
         
         String str1="Code 128";
         String str2="Code Text";
-        String barcodedata="100000118SRM";
+        String barcodedata="1234567890";
         
         String commands = "^XA" +
                               //"^LH0,0^LL500" +
